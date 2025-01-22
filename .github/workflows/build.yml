@@ -7,7 +7,7 @@ on:
       - phpAvecBDD
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: dboudji/phpAvecBDD
+  IMAGE_NAME: djelalb/phpAvecBDD
 
 jobs:
   build-and-publish:
